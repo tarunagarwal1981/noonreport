@@ -44,4 +44,3 @@ function VesselList() {
 }
 
 export default VesselList;
-
